@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+}
+.main{
+    display: flex;
+}
+.text{
+    width: 100px;
+    height: 2000px;
+    border: 1px solid gray;
+    background-color: white;
+    position: fixed;
+    z-index: 1;
+}
+.block{
+    width: 500px;
+    height: 2000px;
+    border: 1px solid gray;
+    position: fixed;
+}
+.block h1{
+    margin-left: 150px;
+    padding-top: 30px;
+}
+.block img{
+    margin-left: 400px;
+    margin-top: -70px;
+}
+.block p{
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.p1{
+    width: 50px;
+    height: 50px;
+    margin-top: 200px;
+    margin-left: 150px;
+    border-radius: 100px;
+}
+.img{
+    width: 500px;
+    position: fixed;
+    height: 200px;
+    border-bottom: 1px solid gray;
+}
+.img1{
+    display: flex;
+    margin-top: 250px;
+    margin-left: 150px;
+}
+.img1 img{
+    border-radius: 200px;
+}
+.img1 p{
+    margin-left: 30px;
+}
+.img{
+    width: 500px;
+    position: fixed;
+    height: 200px;
+    border-bottom: 1px solid gray;
+    position: fixed;
+}
+.img2{
+    display: flex;
+    margin-top:40px;
+    margin-left: 150px;
+}
+.img2 img{
+    border-radius: 200px;
+}
+.img2 p{
+    margin-left: 30px;
+}
+.text2{
+    margin-left: 185px;
+    width: 1400px;
+    position: sticky;
+    top: 0;
+    height: 100px;
+    border-bottom: 1px solid gray;
+}
+.img4{
+    display: flex;
+    margin-top:20px;
+    margin-left: 50px;
+}
+.img4 img{
+    border-radius: 200px;
+}
+.img4 p{
+    margin-left: 30px;
+}
+.d1{
+    margin-left: 550px;
+}
+.t{
+    border-radius: 50px;
+    height: 40px;
+    margin-top: -300px;
+    background-color: rgb(0, 140, 255);
+    color: white;
+    margin-left: 1600px;
+    border: none;
+}
+.text10{
+    margin-top: -200px;
+}
+.c1{
+    margin-top: 30px;
+    border-radius: 50px;
+    height: 40px;
+    background-color: rgb(0, 140, 255);
+    color: white;
+    margin-left: 1600px;
+    border: none;
+}
+.c2{
+    margin-top: 100px;
+    border-radius: 50px;
+    height: 40px;
+    background-color: gray;
+    color: white;
+    margin-left: 600px;
+    border: none;
+}
+.text i{
+    color: black;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 100px;
+}   
+.tex1{
+    display: flex;
+    margin-left: 535px;
+    margin-top: 340px;
+    position: fixed;
+}
+.tex1 input{
+    border-radius: 50px;
+    border:1px solid rgb(211, 209, 209);
+    height: 40px;
+    width: 1250px;
+    position: fixed;
+    padding-left: 60px;
+}
+.tex1 i{
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 10px;
+    z-index: 1;
+}
+.text90{
+    margin-left: 1080px;
+}
+.text90 i{
+    color: gray;
+    z-index: 1;
+    position: relative;
+}
+.text20 i{
+    font-size: 30px;
+    margin-top: 250px;
+}
